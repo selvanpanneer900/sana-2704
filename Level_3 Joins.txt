@@ -1,0 +1,25 @@
+1.	Print all employee name along with the department_name , city , countryname and regionname
+
+2.  Print all employee first_name , salary and job_title using employees and jobs tables
+
+3.	Print department_name which does not having employees 
+
+4.	Print city which doesnot having any employees 
+
+5.  Print all the employee name along with their manager name
+
+6.  Print all the country name where no employee is working
+
+7.  Give the output of inner , left outer , right outer , full outer and cross join for the below tables
+
+  TableA   TableB
+     1        1
+     2        1
+     1        3
+     2       null
+
+8. What is referential integrity?
+
+9. Write a query to find the tables that have referential integrity relationship with employees table.
+
+
